@@ -6,7 +6,7 @@ The project includes data cleaning, exploratory data analysis (EDA), visualizati
 
 ## Dataset
 The dataset contains NYC 311 service requests, including complaint creation and closing dates, types of complaints, and more.  
-**Note:** Due to file size limitations on GitHub, the original dataset (`Customer Service_Requests_from_2010_to_Present.csv`) is **not included** in this repository. You will need to download it separately from [NYC Open Data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) or your source.
+**Note:** Due to file size limitations on GitHub, the original dataset (`Customer Service_Requests_from_2010_to_Present.csv`) is **not included** in this repository. You will need to download it separately from [NYC Open Data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) or other source.
 
 ## Project Structure
 - `data/` : Folder for dataset CSV files (excluded from repo due to size).
